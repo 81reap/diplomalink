@@ -1,5 +1,6 @@
 # DiplomaLink
-UNICC-Columbia University Thinkathon 2024 Project :: Team The Great Lake Thinktank
+
+This is our team's (The Great Lake Thinktank) project proposal for the UNICC 2024 Thinkathon where we placed 2nd. This is designed to work along with another one of our projects, [The Illustrated Primer](https://github.com/81reap/primer). 
 
 DiplomaLink is a decentralized solution that leverages blockchain technology to securely validate and store test answers to grant diplomas or certificates at an multinational level. It consists a network of consortium members who work together to ensure the integrity and accuracy of the test answer validation process. The use of smart contracts enforces access control and enables transparent and tamper-proof storage of validated test answers on the blockchain.
 
